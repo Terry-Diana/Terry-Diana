@@ -38,7 +38,7 @@
 
 ---
 
-### 📺 Latest Sketches and Photo Edits :art:
+### 📕 Latest Sketches and Photo Edits
 
 <!-- DEVIANT-ART:START -->
 
