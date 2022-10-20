@@ -41,7 +41,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 Latest Sketches and Photo Edits
 
 <!-- DEVIANT-ART:START -->
 
@@ -50,7 +50,7 @@
 - [Learning to Code is NOT Hard!!](https://www.youtube.com/watch?v=5jzIjU7Ed9o)
 - [12 ways to center a div](https://www.youtube.com/watch?v=WM02RIeE1Fs)
 - [How to center a div 12 ways!!](https://www.youtube.com/watch?v=kphds-1V9o8)
-<!-- YOUTUBE:END -->
+<!-- DEVIAN-ART:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
 
