@@ -9,17 +9,15 @@
 
 ### Connect with me:
 
-[![website](./img/deviantart-light.svg)](https://www.deviantart.com/teedee12#gh-light-mode-only)
-[![website](./img/deviantart-dark.svg)](https://www.deviantart.com/teedee12#gh-dark-mode-only)
+[![website](./img/deviantart.jpg)](https://www.deviantart.com/teedee12#gh-light-mode-only)
+[![website](./img/deviantart.jpg)](https://www.deviantart.com/teedee12#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/TerryDiana2#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/TerryDiana2#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/terry-diana-wangui/r#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/terry-diana-wangui/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/t_e_d_e_e/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/t_e_d_e_e/#gh-dark-mode-only)
+
 
 ### Languages and Tools:
 
@@ -45,28 +43,23 @@
 
 <!-- DEVIANT-ART:START -->
 
-- [🔴 React Advanced 2022 | The Biggest React Conference In The Cloud | GitNation](https://www.youtube.com/watch?v=vEKJU995knU)
-- [Coinbase Hacked! $16,308 Stolen - Don’t let this happen to you!!](https://www.youtube.com/watch?v=1GJkuRa1PjM)
-- [Learning to Code is NOT Hard!!](https://www.youtube.com/watch?v=5jzIjU7Ed9o)
-- [12 ways to center a div](https://www.youtube.com/watch?v=WM02RIeE1Fs)
-- [How to center a div 12 ways!!](https://www.youtube.com/watch?v=kphds-1V9o8)
-<!-- DEVIAN-ART:END -->
+- [Halloween Special: Skull on Knife](https://www.deviantart.com/teedee12/art/Img-20211230-wa0022-933501509)
+- [Photo Edit: Double-exposure](https://www.deviantart.com/teedee12/art/Double-exposure-932891199)
+- [Photo Edit: Woman-with-Lights](https://www.deviantart.com/teedee12/art/Woman-with-Lights-931345487)
+<!-- DEVIANT-ART:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more artwork and edits...](https://www.deviantart.com/teedee12)
 
 ---
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with MongoDB &amp; Mongoose](https://dev.to/codestackr/getting-started-with-mongodb-mongoose-2h6a)
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [Why you should hire junior developers](https://dev.to/terrydiana/why-you-should-hire-junior-developers-13f8)
+- [Still using Sublime...](https://dev.to/terrydiana/still-using-sublime-4ok1)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://dev.to/terrydiana)
 
 ---
 
@@ -91,11 +84,7 @@
 </details>
 
 [twitter]: https://twitter.com/TerryDiana2
-[instagram]: https://www.instagram.com/t_e_d_e_e/
 [linkedin]: https://www.linkedin.com/in/terry-diana-wangui/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[deviantart]: https://dev.to/terrydiana
 
 # Terry-Diana
