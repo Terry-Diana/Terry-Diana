@@ -9,9 +9,6 @@
 
 ### Connect with me:
 
-[![website](./img/deviantart.jpg)](https://www.deviantart.com/teedee12#gh-light-mode-only)
-[![website](./img/deviantart.jpg)](https://www.deviantart.com/teedee12#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/TerryDiana2#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/TerryDiana2#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -79,7 +76,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
- [![Terry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Terry-Diana)]
+ ![Terry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Terry-Diana&show_icons=true&theme=radical)
+
 
 </details>
 
