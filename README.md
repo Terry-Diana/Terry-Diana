@@ -67,7 +67,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-[![Terry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Terry-Diana)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true&theme=tokyonight)
+[![Terry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Terry-Diana)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true&theme=merko)
 </details>
 
 [twitter]: https://twitter.com/TerryDiana2
