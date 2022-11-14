@@ -55,7 +55,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Importance of Joining a Tech Community]([https://dev.to/terrydiana/what-is-web3-151i](https://dev.to/terrydiana/importance-of-joining-a-tech-community-17id))
+- [Importance of Joining a Tech Community](https://dev.to/terrydiana/importance-of-joining-a-tech-community-17id)
 - [What is Web3?](https://dev.to/terrydiana/what-is-web3-151i)
 - [Why you should hire junior developers](https://dev.to/terrydiana/why-you-should-hire-junior-developers-13f8)
 - [Still using Sublime...](https://dev.to/terrydiana/still-using-sublime-4ok1)
