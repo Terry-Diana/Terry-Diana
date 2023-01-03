@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate with other developers on open source projects
-- 🥅 2022 Goals: Learn more about web3
+- 🥅 2023 Goals: Learn more about web3
 - ⚡ Fun fact: I love to sketch, hike and play all sports
 
 ---
