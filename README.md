@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Terry Diana
 
-## I'm a Software Developer and an Artist!!
+## I'm a Software Developer
 
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate with other developers on open source projects
