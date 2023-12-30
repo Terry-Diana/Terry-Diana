@@ -4,7 +4,7 @@
 
 - 🌱 Always improving my skills
 - 👯 I’m looking to collaborate with other developers on open source projects
-- 🥅 2023 Goals: Learn more about web3
+- 🥅 2024 Goals: Deepen my knowledge in JavaScript tech stacks
 - ⚡ Fun fact: I love to sketch, hike and play all sports
 
 ---
