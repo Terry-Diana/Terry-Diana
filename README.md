@@ -55,7 +55,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Creativity: Breaking the Monotony in Repetitive Programming Projects]([https://dev.to/terrydiana/still-using-sublime-4ok1](https://dev.to/terrydiana/unlocking-creativity-breaking-the-monotony-in-repetitive-programming-projects-1h04)
+- [Unlocking Creativity: Breaking the Monotony in Repetitive Programming Projects](https://dev.to/terrydiana/unlocking-creativity-breaking-the-monotony-in-repetitive-programming-projects-1h04)
 - [Introduction to Algorithms]([https://dev.to/terrydiana/why-you-should-hire-junior-developers-13f8 (https://dev.to/terrydiana/introduction-to-algorithms-176k))
 - [Importance of Joining a Tech Community](https://dev.to/terrydiana/importance-of-joining-a-tech-community-17id)
 - [What is Web3?](https://dev.to/terrydiana/what-is-web3-151i)
