@@ -5,7 +5,7 @@
 - ❤️ Leading with empathy & a holistic approach to problem solving
 - 🌱 Leveraging a growth mindset & culture to build & scale
 - ⭐️ Fostering a safe environment to unlock individuals' potential to be their best selves
-- 🎓 Teaching classes & workshops for post-secondary & professional development audiences
+- 🎓 Teaching classes for adults looking to get into tech or improve their tech skills
 
 
 ---
