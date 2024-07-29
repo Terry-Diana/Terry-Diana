@@ -1,11 +1,12 @@
 # 👋 Hi there, I'm Terry Diana
 
-## I'm a Software Developer
+## I'm a Software Engineer
 
-- 🌱 Always improving my skills
-- 👯 I’m looking to collaborate with other developers on open source projects
-- 🥅 2024 Goals: Deepen my knowledge in JavaScript tech stacks
-- ⚡ Fun fact: I love to sketch, hike and play all sports
+- ❤️ Leading with empathy & a holistic approach to problem solving
+- 🌱 Leveraging a growth mindset & culture to build & scale
+- ⭐️ Fostering a safe environment to unlock individuals' potential to be their best selves
+- 🎓 Teaching classes & workshops for post-secondary & professional development audiences
+
 
 ---
 
